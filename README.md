@@ -7,7 +7,7 @@
 
 [lin-badge]: https://travis-ci.org/wentaojia2014/TaoMath.svg?branch=master "Travis build status"
 [lin-link]: https://travis-ci.org/wentaojia2014/TaoMath "Travis build status"
-[win-badge]: https://ci.appveyor.com/api/projects/status/gup0dy0cc2d25m7o?svg=true "AppVeyor build status"
+[win-badge]: https://ci.appveyor.com/api/projects/status/txnsnhr67xtaf384?svg=true "AppVeyor build status"
 [win-link]: https://ci.appveyor.com/project/jiawentao/taomath "AppVeyor build status"
 [cov-badge]: https://coveralls.io/repos/github/wentaojia2014/TaoMath/badge.svg?branch=master "Coveralls coverage"
 [cov-link]: https://coveralls.io/github/wentaojia2014/TaoMath?branch=master "Coveralls coverage"
